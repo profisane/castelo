@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+#container{
+	background-attachment:s;
+		background-image: url("kim.jpg");
+			background-size: 100%; 
+	width: 900px;
+	margin: auto;
+	
+	
+}
+#banner{
+	
+	height: 90px;
+	margin-left: 50 ;
+	padding-left: 50;
+	color:white;
+	font-size: 30px;
+margin-top: 20px;
+margin-top: 60px;
+}
+#menu{
+	
+	height: 90px;
+	 font-size: 16px;
+		color:white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-left: 50px;
+	margin-top: 20px;
+}
+#parte1{
+	
+	border-style: solid;
+	width: 800;
+	height: 250px;
+}
+.box1{
+	
+	border-style: solid;
+	width: 260px;
+	float:left;
+	height: 150px;
+	margin-left: 20px;
+	margin-top: 20px;
+	padding-top: 5px;
+	font-size: 15px;
+		color:white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+			
+}
+.box1 img{
+	width: 100%;
+	
+	
+	
+	
+}
+#parte2{
+	border-style: solid;
+	width: 800;
+	height: 250px;
+	
+	
+}
+
+.box2{
+	border-style: solid;
+	width: 250px;
+	float:left;
+	height: 200px;
+	margin-left: 160px;
+	margin-top: 20px;
+	padding-top: 05px;
+	font-size: 15px;
+		color:white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	
+}
+.box2 img{
+	width: 100%;
+	font-size: 12px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		background-attachment: fixed;
+	background-image:url("to.jpg");
+		background-size: 100%;
+}
+.box3 {
+	border-style: solid;
+	width: 890px;
+	float: left;
+	height:89px;
+
+}
+	
